@@ -1,2 +1,2 @@
 # Cypress_Intercept
-script de teste de regressão visual
+Doc https://docs.cypress.io/api/commands/intercept#Intercepted-requests
